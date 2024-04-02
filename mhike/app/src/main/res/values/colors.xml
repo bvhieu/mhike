@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#c9b4ed</color>
+    <color name="colorAccent">#a48ad1</color>
+    <color name="grey">#f1edf5</color>
+
+    <color name="colorFacbook">#0084ff</color>
+    <color name="colorinstagram">#E95950</color>
+
+    <color name="levelVeryEasy">#1FE18A</color>
+    <color name="levelEasy">#1CB2F3</color>
+    <color name="levelMedium">#EDBE11</color>
+    <color name="levelHard">#D10D0D</color>
+    <color name="levelVeryHard">#AD09D3</color>
+    <color name="defaultColor">#c9b4ed</color>
+
+</resources>
